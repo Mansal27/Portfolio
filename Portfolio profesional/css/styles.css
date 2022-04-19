@@ -229,6 +229,13 @@ margin-bottom: 2em;
       background-size: cover;
     }
 
+    .card_img2{
+      width: 100%;
+      height: 350px;
+      background-image: url(../img/portfolio.png);
+      background-size: cover;
+    }
+
     .card_title{
       padding: 20px;
       color: #FFA500;
